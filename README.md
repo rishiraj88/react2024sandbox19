@@ -1,5 +1,5 @@
 # A Project to Appreciate the awesome Teaming of React, TypeScript, Vite and Bun
-This project is built to notice the accelerated development tooling available with Vite and Bun for React.js.
+This project is built to appreciate the accelerated development tooling available with Vite and Bun for React.js.
 
 ## Install `bun`
 <pre>npm i -g bun</pre>
